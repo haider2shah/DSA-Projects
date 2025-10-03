@@ -38,7 +38,7 @@ To get this project running on your own machine, follow these steps.
      
 2. **Navigate to the project directory:**  
    Bash  
-   cd DSA-Projects/Command-Line Inventory Management System/Driver
+   cd DSA-Projects/Command-Line Inventory Management System
 
 3. **Build the project with Maven:**  
    Bash  
